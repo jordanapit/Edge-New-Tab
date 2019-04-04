@@ -28,7 +28,7 @@ Celebrating the Project Anaheim (which brings Chromium to Windows 10 as replacem
 * User Picture and Name (customizable)
 
 ## Download
-<a href="https://github.com/jordanapit/Edge-New-Tab/blob/master/Edge-new-tab-v0.1.01.zip">Edge-new-tab-v0.1.01.zip</a>
+<a href="https://github.com/jordanapit/Edge-New-Tab/blob/master/Edge-new-tab-v0.1.01.zip?raw=true">Edge-new-tab-v0.1.01.zip</a>
 
 ## Screenshot
 ![screenshot](images/newtab_preview.png)
