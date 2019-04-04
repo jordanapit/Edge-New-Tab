@@ -17,7 +17,7 @@ Celebrating the Project Anaheim (which brings Chromium to Windows 10 as replacem
 * Click Load unpacked
 * Choose the folder of the extracted files
 
-## Bug/Problems
+## Issues/Problems
 * You can't change or remove the pinned tiles
 * When you resize the window to small, "web search" button should be replaced to magnifier icon, but it doesn't appear
 
