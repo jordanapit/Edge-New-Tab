@@ -1,4 +1,4 @@
-# Edge New Tab Page
+# Edge New Tab Page for Chromium
 Replace Chromium's default New Tab page to Microsoft Edge's New Tab page.
 
 ## Love Microsoft UWP's Edge new tab page? Bring it to Chromium-based browser!
